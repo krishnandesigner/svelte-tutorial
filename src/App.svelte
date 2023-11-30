@@ -1,12 +1,11 @@
 <script>
-	const name ="Krishnakumar"
+	const name ="Krishnakumar VG"
 	import Htmlprefix from "./htmlprefix.svelte";
 	import Attributes from "./AttributesBInding.svelte";
 	import ClassAttributeBinding from "./ClassAttributeBinding.svelte";
 	import Condition from "./Condition.svelte";
 	import EachBlockList from "./EachBlockList.svelte";
 </script>
-
 <main>
 	{name}
 	<Htmlprefix/>
